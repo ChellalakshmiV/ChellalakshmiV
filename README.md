@@ -8,10 +8,10 @@ Welcome to my GitHub profile! I'm an `MSc Mathematics graduate` passionate about
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/chellalakshmi)
   
 🔧 **Skills**
-- 📊 Data Visualization: Power BI
-- 🗄️ Database Management: MySQL
-- 📈 Data Analysis: Advanced Excel
-- 🐍 Programming: C, C++, Python (Basics)
+- 📊 Data Visualization: **Power BI**
+- 🗄️ Database Management: **MySQL**
+- 📈 Data Analysis: **Advanced Excel**
+- 🐍 Programming: **C, C++, Python (Basics)**
 
 **Highlighted Projects**
 
